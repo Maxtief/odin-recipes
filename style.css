@@ -1,0 +1,10 @@
+body,
+a{
+    background-color: rgb(20, 9, 46);
+    color : green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    height: auto;
+    width: 400;
+}
